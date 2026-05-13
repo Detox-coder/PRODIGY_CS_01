@@ -97,7 +97,7 @@ caesar_cipher/
 
 ```sh
 # Clone or download the project
-git clone (https://github.com/Detox-coder/PRODIGY_CS_01)
+git clone https://github.com/Detox-coder/PRODIGY_CS_01
 cd PRODIGY_CS_01
 
 # Run the application
